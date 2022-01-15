@@ -1,8 +1,8 @@
 {
 
-"git bash": "cd, pwd, mkdir, touch, vim, cat, head, tail, date, ls, rm, tac, grep, find, less, cp, mv, help..." ,
-"git hub": "create own account, create repositories, add and commit files, push files, change files in repositories..." ,
-"file json": "create, change, delete..." , 
-"soft skills": "communication with groupmates, study how to find smth in Google"
+"git_bash": "cd, pwd, mkdir, touch, vim, cat, head, tail, date, ls, rm, tac, grep, find, less, cp, mv, help..." ,
+"git_hub": "create own account, create repositories, add and commit files, push files, change files in repositories..." ,
+"file_json": "create, change, delete..." , 
+"soft_skills": "communication with groupmates, study how to find smth in Google"
 
 }
