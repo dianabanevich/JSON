@@ -1,9 +1,9 @@
 { 
 
-"favourite film": "Harry Potter" ,
-"favourite TV-show": "Game of thrones, stranger things, supernatural" ,
-"favourite food": "sushi, pasta, pizza and all fastfood" ,
-"favourite time of the year": "summer" ,
-"country i want to visit": "Japan, France"
+"favourite_film": "Harry Potter" ,
+"favourite_TV-show": "Game of thrones, stranger things, supernatural" ,
+"favourite_food": "sushi, pasta, pizza and all fastfood" ,
+"favourite_time_of_the_year": "summer" ,
+"country_i_want_to_visit": "Japan, France"
 
 }
